@@ -1,0 +1,49 @@
+Order ID,Employee,Customer,Order Date,Shipped Date,Ship Via,Ship Name,Ship Address,Ship City,Ship State/Province,Ship ZIP/Postal Code,Ship Country/Region,Shipping Fee,Taxes,Payment Type,Paid Date,Notes,Tax Rate,Tax Status,Status ID
+30,Anne Hellung-Larsen,Company AA,1/15/2006,1/22/2006,Shipping Company B,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,1/15/2006,,0,,Closed
+31,Jan Kotas,Company D,1/20/2006,1/22/2006,Shipping Company A,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,1/20/2006,,0,,Closed
+32,Mariya Sergienko,Company L,1/22/2006,1/22/2006,Shipping Company B,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,1/22/2006,,0,,Closed
+33,Michael Neipper,Company H,1/30/2006,1/31/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,1/30/2006,,0,,Closed
+34,Anne Hellung-Larsen,Company D,2/6/2006,2/7/2006,Shipping Company C,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,2/6/2006,,0,,Closed
+35,Jan Kotas,Company CC,2/10/2006,2/12/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,2/10/2006,,0,,Closed
+36,Mariya Sergienko,Company C,2/23/2006,2/25/2006,Shipping Company B,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,2/23/2006,,0,,Closed
+37,Laura Giussani,Company F,3/6/2006,3/9/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,3/6/2006,,0,,Closed
+38,Anne Hellung-Larsen,Company BB,3/10/2006,3/11/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,3/10/2006,,0,,Closed
+39,Jan Kotas,Company H,3/22/2006,3/24/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,3/22/2006,,0,,Closed
+40,Mariya Sergienko,Company J,3/24/2006,3/24/2006,Shipping Company B,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,3/24/2006,,0,,Closed
+41,Nancy Freehafer,Company G,3/24/2006,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,New
+42,Nancy Freehafer,Company J,3/24/2006,4/7/2006,Shipping Company A,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,Shipped
+43,Nancy Freehafer,Company K,3/24/2006,,Shipping Company C,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,New
+44,Nancy Freehafer,Company A,3/24/2006,,,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,New
+45,Nancy Freehafer,Company BB,4/7/2006,4/7/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,4/7/2006,,0,,Closed
+46,Robert Zare,Company I,4/5/2006,4/5/2006,Shipping Company A,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,4/5/2006,,0,,Closed
+47,Michael Neipper,Company F,4/8/2006,4/8/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,4/8/2006,,0,,Closed
+48,Mariya Sergienko,Company H,4/5/2006,4/5/2006,Shipping Company B,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,4/5/2006,,0,,Closed
+50,Anne Hellung-Larsen,Company Y,4/5/2006,4/5/2006,Shipping Company A,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,4/5/2006,,0,,Closed
+51,Anne Hellung-Larsen,Company Z,4/5/2006,4/5/2006,Shipping Company C,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,4/5/2006,,0,,Closed
+55,Nancy Freehafer,Company CC,4/5/2006,4/5/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,4/5/2006,,0,,Closed
+56,Andrew Cencini,Company F,4/3/2006,4/3/2006,Shipping Company C,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,4/3/2006,,0,,Closed
+57,Anne Hellung-Larsen,Company AA,4/22/2006,4/22/2006,Shipping Company B,Karen Toh,789 27th Street,Las Vegas,NV,99999,USA,200,0,Check,4/22/2006,,0,,New
+58,Jan Kotas,Company D,4/22/2006,4/22/2006,Shipping Company A,Christina Lee,123 4th Street,New York,NY,99999,USA,5,0,Credit Card,4/22/2006,,0,,Closed
+59,Mariya Sergienko,Company L,4/22/2006,4/22/2006,Shipping Company B,John Edwards,123 12th Street,Las Vegas,NV,99999,USA,5,0,Credit Card,4/22/2006,,0,,New
+60,Michael Neipper,Company H,4/30/2006,4/30/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Credit Card,4/30/2006,,0,,Closed
+61,Anne Hellung-Larsen,Company D,4/7/2006,4/7/2006,Shipping Company C,Christina Lee,123 4th Street,New York,NY,99999,USA,4,0,Check,4/7/2006,,0,,New
+62,Jan Kotas,Company CC,4/12/2006,4/12/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,7,0,Check,4/12/2006,,0,,New
+63,Mariya Sergienko,Company C,4/25/2006,4/25/2006,Shipping Company B,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,7,0,Cash,4/25/2006,,0,,Closed
+64,Laura Giussani,Company F,5/9/2006,5/9/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,12,0,Credit Card,5/9/2006,,0,,New
+65,Anne Hellung-Larsen,Company BB,5/11/2006,5/11/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,10,0,Check,5/11/2006,,0,,New
+66,Jan Kotas,Company H,5/24/2006,5/24/2006,Shipping Company C,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,5,0,Check,5/24/2006,,0,,New
+67,Mariya Sergienko,Company J,5/24/2006,5/24/2006,Shipping Company B,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,9,0,Credit Card,5/24/2006,,0,,Closed
+68,Nancy Freehafer,Company G,5/24/2006,,,Ming-Yang Xie,123 7th Street,Boise,ID,99999,USA,0,0,,,,0,,New
+69,Nancy Freehafer,Company J,5/24/2006,,Shipping Company A,Roland Wacker,123 10th Street,Chicago,IL,99999,USA,0,0,,,,0,,New
+70,Nancy Freehafer,Company K,5/24/2006,,Shipping Company C,Peter Krschne,123 11th Street,Miami,FL,99999,USA,0,0,,,,0,,New
+71,Nancy Freehafer,Company A,5/24/2006,,Shipping Company C,Anna Bedecs,123 1st Street,Seattle,WA,99999,USA,0,0,,,,0,,New
+72,Nancy Freehafer,Company BB,6/7/2006,6/7/2006,Shipping Company C,Amritansh Raghav,789 28th Street,Memphis,TN,99999,USA,40,0,Credit Card,6/7/2006,,0,,Closed
+73,Robert Zare,Company I,6/5/2006,6/5/2006,Shipping Company A,Sven Mortensen,123 9th Street,Salt Lake City,UT,99999,USA,100,0,Check,6/5/2006,,0,,Closed
+74,Michael Neipper,Company F,6/8/2006,6/8/2006,Shipping Company B,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,300,0,Credit Card,6/8/2006,,0,,Closed
+75,Mariya Sergienko,Company H,6/5/2006,6/5/2006,Shipping Company B,Elizabeth Andersen,123 8th Street,Portland,OR,99999,USA,50,0,Check,6/5/2006,,0,,Closed
+76,Anne Hellung-Larsen,Company Y,6/5/2006,6/5/2006,Shipping Company A,John Rodman,789 25th Street,Chicago,IL,99999,USA,5,0,Cash,6/5/2006,,0,,Closed
+77,Anne Hellung-Larsen,Company Z,6/5/2006,6/5/2006,Shipping Company C,Run Liu,789 26th Street,Miami,FL,99999,USA,60,0,Credit Card,6/5/2006,,0,,Closed
+78,Nancy Freehafer,Company CC,6/5/2006,6/5/2006,Shipping Company B,Soo Jung Lee,789 29th Street,Denver,CO,99999,USA,200,0,Check,6/5/2006,,0,,Closed
+79,Andrew Cencini,Company F,6/23/2006,6/23/2006,Shipping Company C,Francisco Pérez-Olaeta,123 6th Street,Milwaukee,WI,99999,USA,0,0,Check,6/23/2006,,0,,Closed
+80,Andrew Cencini,Company D,4/25/2006,,,Christina Lee,123 4th Street,New York,NY,99999,USA,0,0,,,,0,,New
+81,Andrew Cencini,Company C,4/25/2006,,,Thomas Axen,123 3rd Street,Los Angelas,CA,99999,USA,0,0,,,,0,,New

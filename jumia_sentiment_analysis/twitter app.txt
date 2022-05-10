@@ -1,0 +1,17 @@
+Keys and tokens
+Keys, secret keys and access tokens management.
+
+Consumer API keys
+z30fX3NmiEBnfKaaLjTbV2vgm (API key)
+
+KolMICQJXJRrpwXHl6Pgy6RGZR9y9CR6NhP0lEqqZr1Q9D5CLk (API secret key)
+
+Regenerate
+Access token & access token secret
+1097788168655523841-cqX16VSmF7Az391Sy9MHjNF3m4uoRP (Access token)
+
+HnJ1n4G2gAnrknwUb7HpRA7MwvHwziEciD7WbOKcEA4JR (Access token secret)
+
+Read and write (Access level)
+
+C:\Users\Folayan Tobi\AppData\Local\Temp\RtmpCoP140\downloaded_packages

@@ -1,0 +1,46 @@
+Supplier IDs,ID,Product Code,Product Name,Description,Standard Cost,List Price,Reorder Level,Target Level,Quantity Per Unit,Discontinued,Minimum Reorder Quantity,Category,Attachments
+Supplier D,1,NWTB-1,Northwind Traders Chai,,14,18,10,40,10 boxes x 20 bags,FALSE,10,Beverages,0
+Supplier J,3,NWTCO-3,Northwind Traders Syrup,,8,10,25,100,12 - 550 ml bottles,FALSE,25,Condiments,0
+Supplier J,4,NWTCO-4,Northwind Traders Cajun Seasoning,,16,22,10,40,48 - 6 oz jars,FALSE,10,Condiments,0
+Supplier J,5,NWTO-5,Northwind Traders Olive Oil,,16,21,10,40,36 boxes,FALSE,10,Oil,0
+"Supplier B, Supplier F",6,NWTJP-6,Northwind Traders Boysenberry Spread,,19,25,25,100,12 - 8 oz jars,FALSE,25,"Jams, Preserves",0
+Supplier B,7,NWTDFN-7,Northwind Traders Dried Pears,,22,30,10,40,12 - 1 lb pkgs.,FALSE,10,Dried Fruit & Nuts,0
+Supplier H,8,NWTS-8,Northwind Traders Curry Sauce,,30,40,10,40,12 - 12 oz jars,FALSE,10,Sauces,0
+"Supplier B, Supplier F",14,NWTDFN-14,Northwind Traders Walnuts,,17,23,10,40,40 - 100 g pkgs.,FALSE,10,Dried Fruit & Nuts,0
+Supplier F,17,NWTCFV-17,Northwind Traders Fruit Cocktail,,29,39,10,40,15.25 OZ,FALSE,10,Canned Fruit & Vegetables,0
+Supplier A,19,NWTBGM-19,Northwind Traders Chocolate Biscuits Mix,,7,9,5,20,10 boxes x 12 pieces,FALSE,5,Baked Goods & Mixes,0
+"Supplier B, Supplier F",20,NWTJP-6,Northwind Traders Marmalade,,61,81,10,40,30 gift boxes,FALSE,10,"Jams, Preserves",0
+Supplier A,21,NWTBGM-21,Northwind Traders Scones,,8,10,5,20,24 pkgs. x 4 pieces,FALSE,5,Baked Goods & Mixes,0
+Supplier D,34,NWTB-34,Northwind Traders Beer,,10,14,15,60,24 - 12 oz bottles,FALSE,15,Beverages,0
+Supplier G,40,NWTCM-40,Northwind Traders Crab Meat,,14,18,30,120,24 - 4 oz tins,FALSE,30,Canned Meat,0
+Supplier F,41,NWTSO-41,Northwind Traders Clam Chowder,,7,10,10,40,12 - 12 oz cans,FALSE,10,Soups,0
+"Supplier C, Supplier D",43,NWTB-43,Northwind Traders Coffee,,34,46,25,100,16 - 500 g tins,FALSE,25,Beverages,0
+Supplier J,48,NWTCA-48,Northwind Traders Chocolate,,10,13,25,100,10 pkgs,FALSE,25,Candy,0
+Supplier B,51,NWTDFN-51,Northwind Traders Dried Apples,,40,53,10,40,50 - 300 g pkgs.,FALSE,10,Dried Fruit & Nuts,0
+Supplier A,52,NWTG-52,Northwind Traders Long Grain Rice,,5,7,25,100,16 - 2 kg boxes,FALSE,25,Grains,0
+Supplier A,56,NWTP-56,Northwind Traders Gnocchi,,28,38,30,120,24 - 250 g pkgs.,FALSE,30,Pasta,0
+Supplier A,57,NWTP-57,Northwind Traders Ravioli,,15,20,20,80,24 - 250 g pkgs.,FALSE,20,Pasta,0
+Supplier H,65,NWTS-65,Northwind Traders Hot Pepper Sauce,,16,21,10,40,32 - 8 oz bottles,FALSE,10,Sauces,0
+Supplier H,66,NWTS-66,Northwind Traders Tomato Sauce,,13,17,20,80,24 - 8 oz jars,FALSE,20,Sauces,0
+Supplier E,72,NWTD-72,Northwind Traders Mozzarella,,26,35,10,40,24 - 200 g pkgs.,FALSE,10,Dairy Products,0
+"Supplier B, Supplier F",74,NWTDFN-74,Northwind Traders Almonds,,8,10,5,20,5 kg pkg.,FALSE,5,Dried Fruit & Nuts,0
+Supplier J,77,NWTCO-77,Northwind Traders Mustard,,10,13,15,60,12 boxes,FALSE,15,Condiments,0
+Supplier B,80,NWTDFN-80,Northwind Traders Dried Plums,,3,4,50,75,1 lb bag,FALSE,25,Dried Fruit & Nuts,0
+Supplier C,81,NWTB-81,Northwind Traders Green Tea,,2,3,100,125,20 bags per box,FALSE,25,Beverages,0
+Supplier A,82,NWTC-82,Northwind Traders Granola,,2,4,20,100,,FALSE,,Cereal,0
+Supplier I,83,NWTCS-83,Northwind Traders Potato Chips,,0,2,30,200,,FALSE,,"Chips, Snacks",0
+Supplier A,85,NWTBGM-85,Northwind Traders Brownie Mix,,9,12,10,20,3 boxes,FALSE,5,Baked Goods & Mixes,0
+Supplier A,86,NWTBGM-86,Northwind Traders Cake Mix,,10,16,10,20,4 boxes,FALSE,5,Baked Goods & Mixes,0
+Supplier G,87,NWTB-87,Northwind Traders Tea,,2,4,20,50,100 count per box,FALSE,,Beverages,0
+Supplier F,88,NWTCFV-88,Northwind Traders Pears,,1,1,10,40,15.25 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,89,NWTCFV-89,Northwind Traders Peaches,,1,2,10,40,15.25 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,90,NWTCFV-90,Northwind Traders Pineapple,,1,2,10,40,15.25 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,91,NWTCFV-91,Northwind Traders Cherry Pie Filling,,1,2,10,40,15.25 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,92,NWTCFV-92,Northwind Traders Green Beans,,1,1,10,40,14.5 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,93,NWTCFV-93,Northwind Traders Corn,,1,1,10,40,14.5 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier F,94,NWTCFV-94,Northwind Traders Peas,,1,2,10,40,14.5 OZ,FALSE,,Canned Fruit & Vegetables,0
+Supplier G,95,NWTCM-95,Northwind Traders Tuna Fish,,0,2,30,50,5 oz,FALSE,,Canned Meat,0
+Supplier G,96,NWTCM-96,Northwind Traders Smoked Salmon,,2,4,30,50,5 oz,FALSE,,Canned Meat,0
+Supplier A,97,NWTC-82,Northwind Traders Hot Cereal,,3,5,50,200,,FALSE,,Cereal,0
+Supplier F,98,NWTSO-98,Northwind Traders Vegetable Soup,,1,2,100,200,,FALSE,,Soups,0
+Supplier F,99,NWTSO-99,Northwind Traders Chicken Soup,,1,2,100,200,,FALSE,,Soups,0
