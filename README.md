@@ -10,7 +10,7 @@ Jumia is an ecommerce online platform which sells various items. This project wa
 
 * [ENDSARS Sentiment Analysis](https://github.com/Tobi-DataDetective/R_Projects/tree/main/ENDSARS_tweet_scraping):
 End SARS is a decentralised social movement, and series of mass protests against police brutality in Nigeria.
-Similar to the Jumia sentiment analysis, data was scraped from the twitter using the hashtag #ENDSARS. This folder comprises of 2017 and 2018 data being scraped but for the full data scraped and full project folder visit [here](). and for access to my publication on the final findings visit click [report]().
+Similar to the Jumia sentiment analysis, data was scraped from the twitter using the hashtag #ENDSARS. This folder comprises of 2017 and 2018 data being scraped but for the full data scraped and full project folder visit [here](https://github.com/Tobi-DataDetective/ENDSARS_EDA). and for access to my publication on the final findings visit click [report](https://github.com/Tobi-DataDetective/ENDSARS_EDA/tree/main/report).
 
 * [Practice](https://github.com/Tobi-DataDetective/R_Projects/tree/main/practice):
 This folder contains a file of some of my learnings being document from the various helping online courses on R programming.
