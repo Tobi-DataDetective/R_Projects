@@ -14,8 +14,7 @@ Similar to the Jumia sentiment analysis, data was scraped from the twitter using
 
 * [Practice](https://github.com/Tobi-DataDetective/R_Projects/tree/main/practice):
 This folder contains a file of some of my learnings being document from the various helping online courses on R programming.
-
-- [Machine Learning](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/machine%20learning.R)
-- [Practise 1-24](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/prac1-24.R)
-- [Ggplot training](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/ggplot%20training%20exercise.R)
-- [Data Visualization](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/data%20visualization%20project.R)
+    - [Machine Learning](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/machine%20learning.R)
+    - [Practise 1-24](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/prac1-24.R)
+    - [Ggplot training](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/ggplot%20training%20exercise.R)
+    - [Data Visualization](https://github.com/Tobi-DataDetective/R_Projects/blob/main/practice/data%20visualization%20project.R)
